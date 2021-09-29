@@ -7,9 +7,9 @@
 ## HEYO CODERS
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-I am a 17 y/o amateur programmer, </br>
-Who loves to write some lines of code, </br>
-
+I am a 17 y/o beginner programmer, </br>
+Have an interest in coding ... </br>
+Achieved nothing special till now !! </br>
 
 ### I am currently learning
 - Python  
