@@ -9,9 +9,10 @@
 
 I am a 17 y/o beginner programmer, </br>
 Have an interest in coding ... </br>
-Achieved nothing special till now !! </br>
+Also play chess in free times. </br>
 
 ### I am currently learning
 - Python  
 - HTML
 - C++
+- SQL
