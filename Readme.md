@@ -7,7 +7,7 @@
 ## HEYO CODERS
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-I am a 19 y/o beginner programmer, </br>
+I am a 21 y/o beginner programmer, </br>
 Have an interest in coding ... </br>
 Also play chess in free times. </br>
 
